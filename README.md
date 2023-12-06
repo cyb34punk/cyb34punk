@@ -20,7 +20,7 @@
 <!--h2 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Confusion is part of Programming</h2></summary>
+    <summary><h2 style="display: inline-block">Understanding Intangible Warfare</h2></summary>
   </ul>
 </div>
 
@@ -31,8 +31,6 @@
 - 🌱 I’m currently working **to place all the fundamental tools.**
 
 - ☁️ I've keen interest in hacking, cybercrime, 0-day, pentesting So,I'm learning **a loot**
-
-- 📝 I regularly write articles on [Hashnode](https://1010nishant.hashnode.dev/)
 
 - 💬 Ask me about **hacking, cybercrime, 0-day, pentesting**
 
