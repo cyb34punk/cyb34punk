@@ -45,8 +45,7 @@
   <!--- stats (start) -->
 <table align="center">
 <tr border="none">
-<td width="50%" align="center">
-
+  
 </tr>
 </table>
 <!--- stats (end) -->
